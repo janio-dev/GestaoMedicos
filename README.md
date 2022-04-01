@@ -51,3 +51,21 @@ $ npm run start:prod
 - Update
 - Select
 - Soft Delete
+
+## cadastro do médico
+
+- Nome do médico
+- CRM
+- Telefone fixo
+- Telefone celular
+- CEP: (Ao cadastrar o CEP, e feita uma requisição via axios para a API ViaCEP e retorna a localidade do cliente já salvando automaticamente no db).
+- Especialidade médica
+
+## tecnologias utilizadas
+
+- NestJS
+- TypeScript
+- Sequelize
+- axios
+- class-validator
+- 
