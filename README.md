@@ -49,3 +49,4 @@ $ npm run start:prod
 - Sequelize
 - axios
 - class-validator
+- MySQL
