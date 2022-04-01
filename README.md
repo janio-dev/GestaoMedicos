@@ -44,3 +44,10 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+
+## Operações
+
+- Insert
+- Update
+- Select
+- Soft Delete
