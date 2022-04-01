@@ -21,17 +21,17 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+## Descrição
 
 Api para gestão de médicos.
 
-## Installation
+## Instalação
 
 ```bash
 $ npm install
 ```
 
-## Running the app
+## Executando o aplicativo
 
 ```bash
 # development
@@ -51,7 +51,7 @@ $ npm run start:prod
 - Select
 - Soft Delete
 
-## cadastro do médico
+## Cadastro do médico
 
 - Nome do médico
 - CRM
@@ -60,7 +60,7 @@ $ npm run start:prod
 - CEP: (Ao cadastrar o CEP, e feita uma requisição via axios para a API ViaCEP e retorna a localidade do cliente já salvando automaticamente no db).
 - Especialidade médica
 
-## tecnologias utilizadas
+## Tecnologias utilizadas
 
 - NestJS
 - TypeScript
