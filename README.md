@@ -42,6 +42,10 @@ $ npm run start:prod
 - CEP: (Ao cadastrar o CEP, e feita uma requisição via axios para a API ViaCEP e retorna a localidade do cliente já salvando automaticamente no db).
 - Especialidade médica
 
+## Cadastro de especialidades
+
+- Titulo
+
 ## Tecnologias utilizadas
 
 - NestJS
