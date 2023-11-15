@@ -5,7 +5,7 @@
 
 ## Descrição
 
-Api Rest para gestão de médicos.
+Api Rest for doctor management.
 
 ## Instalação
 
